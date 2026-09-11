@@ -1,0 +1,11 @@
+{
+  "id": "sandrone",
+  "width": 1024,
+  "height": 1024,
+  "alphaThreshold": 10,
+  "files": {
+    "base": "base.png",
+    "character": "character.png",
+    "alpha": "alpha.bin"
+  }
+}

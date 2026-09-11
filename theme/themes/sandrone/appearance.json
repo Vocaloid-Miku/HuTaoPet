@@ -1,0 +1,18 @@
+{
+  "petSize": 210,
+  "menuBtnSize": 36,
+  "menuBtnTop": 14,
+  "menuBtnRight": 1,
+  "menuBtnIconColor": "#796355",
+  "menuBtnBorderColor": "#796355",
+  "menuBtnBgColor": "#deba87",
+  "speechVisible": true,
+  "speechFontSize": 21,
+  "speechColor": "#796355",
+  "speechTexts": [
+    "好女孩",
+    "哈气！",
+    "老吴",
+    "摸摸头"
+  ]
+}

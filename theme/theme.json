@@ -1,0 +1,25 @@
+{
+  "activeTheme": "hutao",
+  "themes": {
+    "hutao": {
+      "label": "胡桃",
+      "folder": "themes/hutao"
+    },
+    "furina": {
+      "label": "芙宁娜",
+      "folder": "themes/furina"
+    },
+    "columbina": {
+      "label": "哥伦比娅",
+      "folder": "themes/columbina"
+    },
+    "sandrone": {
+      "label": "桑多涅",
+      "folder": "themes/sandrone"
+    },
+    "citlali": {
+      "label": "茜特菈莉",
+      "folder": "themes/citlali"
+    }
+  }
+}

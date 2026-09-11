@@ -1,0 +1,13 @@
+{
+  "petSize": 210,
+  "menuBtnSize": 36,
+  "menuBtnTop": 14,
+  "menuBtnRight": 1,
+  "menuBtnIconColor": "#302220",
+  "menuBtnBorderColor": "#302220",
+  "menuBtnBgColor": "#6e4e4f",
+  "speechVisible": true,
+  "speechFontSize": 21,
+  "speechColor": "#6e4e4f",
+  "speechTexts": ["好女孩", "摸摸头"]
+}

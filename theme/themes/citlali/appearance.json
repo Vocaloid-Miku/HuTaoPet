@@ -1,0 +1,17 @@
+{
+  "petSize": 210,
+  "menuBtnSize": 36,
+  "menuBtnTop": 14,
+  "menuBtnRight": 1,
+  "menuBtnIconColor": "#977096",
+  "menuBtnBorderColor": "#977096",
+  "menuBtnBgColor": "#e1c4db",
+  "speechVisible": true,
+  "speechFontSize": 21,
+  "speechColor": "#977096",
+  "speechTexts": [
+    "好女孩",
+    "你奶奶",
+    "摸摸头"
+  ]
+}

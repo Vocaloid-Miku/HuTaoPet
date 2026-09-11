@@ -1,0 +1,21 @@
+@import './base.css';
+
+html,
+body,
+#app {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: transparent !important;
+  background-color: transparent !important;
+  user-select: none;
+}
+
+body {
+  position: relative;
+}
+
+#app {
+  width: 100vw;
+  height: 100vh;
+}
